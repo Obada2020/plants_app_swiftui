@@ -1,0 +1,24 @@
+{
+  "originHash" : "b3e0f007b620846467b7216194b6242db595f23ef03a0c98225d74aab32caeec",
+  "pins" : [
+    {
+      "identity" : "inject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzysztofzablocki/Inject.git",
+      "state" : {
+        "revision" : "838e614220000a563bbaeba2974236f2c2c51e13",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "769b88d83a42ca8d5572b020c96f47e3690b3796",
+        "version" : "4.4.3"
+      }
+    }
+  ],
+  "version" : 3
+}
